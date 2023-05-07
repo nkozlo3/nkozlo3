@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neil Kozlowski
+- 👋 Hi, I’m Neil
 - 👀 I’m interested in Machine Learning and Game Development 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ....
