@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neil
-- 👀 I’m interested in Machine Learning, Game Development, and Cybersecurity! 
-- 🌱 I’m currently learning Machine Learning and low level computer architecture
+- 👀 I’m interested in Software Engineering, Game Development, and Cybersecurity! 
+- 🌱 I’m currently learning assembly and cybersecurity!
 - 📫 How to reach me nkozlo3@illinois.edu
 
 <!---
