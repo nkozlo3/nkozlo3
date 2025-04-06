@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neil
 - 👀 I’m interested in Software Engineering, Game Development, and Cybersecurity! 
 - 🌱 I’m currently learning assembly and cybersecurity!
-- 📫 How to reach me nkozlo3@illinois.edu
+- 📫 How to reach me leinkozlo7@gmail.com
 
 <!---
 nkozlo3/nkozlo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
